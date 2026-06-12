@@ -17,7 +17,7 @@ public class Main {
     }
 
     public static double CalcularVolumenCubo(double largo, double ancho, double alto) {
-        // TODO: devolver el volumen calculado
+        // TODO: Retornar el volumen calculado
         return 0;
     }
 
@@ -26,7 +26,7 @@ public class Main {
     }
 
     public static String CrearMensajeBienvenida(String nombre, String curso) {
-        return "Hola, " + nombre + ". Bienvenido al curso de " + curso + ".";
+        // TODO: Retornar un mensaje de bienvenida usando el nombre y el curso
     }
   
 }
