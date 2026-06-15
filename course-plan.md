@@ -18,7 +18,7 @@ Este curso de aproximadamente 70 minutos introduce a estudiantes de secundaria a
 ### Lección 1: Introducción a la programación y Java (5 minutos)
 
 - **Descripción**: Descubre qué es la programación y por qué Java está en todos lados: videojuegos, aplicaciones móviles y más. Conoce el editor en línea y escribe tu primer programa, el clásico "¡Hola, Mundo!".
-- **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=ENLACE_PENDIENTE)
+- **Enlace**: [Ver la lección](https://youtu.be/MwK9UdnvL0I)
 - **Conclusiones clave**:
   - Programar es darle instrucciones paso a paso a una computadora
   - Java está en videojuegos (Minecraft), apps Android y sistemas empresariales
@@ -32,7 +32,7 @@ Este curso de aproximadamente 70 minutos introduce a estudiantes de secundaria a
 ### Lección 2: Variables y Tipos de Datos (5 minutos)
 
 - **Descripción**: Aprende cómo Java "recuerda" información usando variables. Usaremos la analogía de cajas con etiqueta para entender los tipos de datos más comunes: números, texto, decimales y verdadero/falso.
-- **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=ENLACE_PENDIENTE)
+- **Enlace**: [Ver la lección](https://youtu.be/GlSPo1wIbQI)
 - **Conclusiones clave**:
   - Una variable es como una caja con nombre donde guardas un dato
   - `int` guarda números enteros (15, 100, -3)
