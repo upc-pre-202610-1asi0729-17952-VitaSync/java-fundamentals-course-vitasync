@@ -1,7 +1,5 @@
 # Fundamentos de Java — VitaSync
 
-Repositorio oficial del curso introductorio de Java para estudiantes de secundaria, elaborado por el equipo VitaSync de la Universidad Peruana de Ciencias Aplicadas.
-
 ## Descripción
 
 Este curso enseña los fundamentos de la programación en Java y los conceptos básicos de la Programación Orientada a Objetos (POO) a través de 10 lecciones cortas en video. No requiere instalar ningún programa: todo se trabaja directamente desde el navegador.
@@ -50,24 +48,30 @@ No se requiere instalar nada. Para escribir y ejecutar código Java:
 
 ---
 
-Universidad Peruana de Ciencias Aplicadas · Ingeniería de Software · Período 202610
+## Playlist del curso
+
+Todas las lecciones del curso están organizadas en una playlist de YouTube para seguirlas en orden.
+
+**Playlist completa:** [Fundamentos de Java para Principiantes](https://www.youtube.com/playlist?list=PLPfhgBJqAIg0)
+
+Se recomienda ver los videos en orden y practicar cada lección usando los archivos de `starter-files/`.
 
 ## Lecciones en video
 
 A continuación se muestra la secuencia de lecciones del curso. Cada video tiene una explicación corta y práctica para aprender Java desde cero.
 
-| Lección | Título                                             | Duración aprox. | Enlace                                        |
-| :-----: | :------------------------------------------------- | :-------------: | :-------------------------------------------- |
-|    1    | Introducción a Java y primer Hola Mundo            |      5 min      | [Ver lección 1](https://youtu.be/odWXMY-XoLs) |
-|    2    | Variables y tipos de datos en Java                 |      6 min      | [Ver lección 2](https://youtu.be/RPcYyex7QLI) |
-|    3    | Operadores y expresiones en Java                   |      5 min      | [Ver lección 3](PEGAR_LINK_VIDEO_3)           |
-|    4    | Condicionales y bucles en Java                     |      6 min      | [Ver lección 4](PEGAR_LINK_VIDEO_4)           |
-|    5    | Métodos y parámetros en Java                       |      9 min      | [Ver lección 5](PEGAR_LINK_VIDEO_5)           |
-|    6    | Entrada y salida de datos en Java                  |      9 min      | [Ver lección 6](PEGAR_LINK_VIDEO_6)           |
-|    7    | Introducción a la Programación Orientada a Objetos |      7 min      | [Ver lección 7](PEGAR_LINK_VIDEO_7)           |
-|    8    | Encapsulación, getters y setters en Java           |      6 min      | [Ver lección 8](PEGAR_LINK_VIDEO_8)           |
-|    9    | Arrays y cadenas integrados con objetos            |      6 min      | [Ver lección 9](PEGAR_LINK_VIDEO_9)           |
-|   10    | Programa básico en Java y errores comunes          |     12 min      | [Ver lección 10](PEGAR_LINK_VIDEO_10)         |
+| Lección | Título                                             | Duración aprox. | Enlace                                         |
+| :-----: | :------------------------------------------------- | :-------------: | :--------------------------------------------- |
+|    1    | Introducción a Java y primer Hola Mundo            |      5 min      | [Ver lección 1](https://youtu.be/odWXMY-XoLs)  |
+|    2    | Variables y tipos de datos en Java                 |      6 min      | [Ver lección 2](https://youtu.be/RPcYyex7QLI)  |
+|    3    | Operadores y expresiones en Java                   |      5 min      | [Ver lección 3](https://youtu.be/vDdRnW0yZFE)  |
+|    4    | Condicionales y bucles en Java                     |      6 min      | [Ver lección 4](https://youtu.be/kiOS5sgMkqs)  |
+|    5    | Métodos y parámetros en Java                       |      9 min      | [Ver lección 5](https://youtu.be/7oCDdT1iCj4)  |
+|    6    | Entrada y salida de datos en Java                  |      9 min      | [Ver lección 6](https://youtu.be/N1OCf0Rw1Hg)  |
+|    7    | Introducción a la Programación Orientada a Objetos |      7 min      | [Ver lección 7](https://youtu.be/Mc2EquosUrc)  |
+|    8    | Encapsulación, getters y setters en Java           |      6 min      | [Ver lección 8](https://youtu.be/8jO-iGfltzA)  |
+|    9    | Arrays y cadenas integrados con objetos            |      6 min      | [Ver lección 9](https://youtu.be/1jOsWKAggrc)  |
+|   10    | Programa básico en Java y errores comunes          |     12 min      | [Ver lección 10](https://youtu.be/PoNFODQ0myA) |
 
 ---
 
