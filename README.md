@@ -56,6 +56,14 @@ Todas las lecciones del curso están organizadas en una playlist de YouTube para
 
 Se recomienda ver los videos en orden y practicar cada lección usando los archivos de `starter-files/`.
 
+## Video introductorio
+
+Antes de comenzar con las lecciones, puedes ver el video introductorio del curso:
+
+**Introducción al curso:** [Fundamentos de Java — Introducción](https://youtu.be/qr9qDQLCV2g)
+
+En este video se explica de qué trata el curso, cómo se trabajarán las lecciones y cómo practicar Java desde el navegador.
+
 ## Lecciones en video
 
 A continuación se muestra la secuencia de lecciones del curso. Cada video tiene una explicación corta y práctica para aprender Java desde cero.
